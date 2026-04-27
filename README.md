@@ -1,6 +1,6 @@
 # Felipe Alexandre Vieira Mendes
 
-Desenvolvedor iniciante focado em Python, JavaScript e Redes de Computadores.
+Estudante de programação | Python e JavaScript
 
 ## Projetos
 - Sistema de troca de mensagens por sockets
